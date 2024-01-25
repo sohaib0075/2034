@@ -1,0 +1,57 @@
+﻿
+Renamed 'choice' to 'type':
+---------------------------
+C:\Users\DELL\Downloads\lab1-22i-2034\Q3.cpp(83, 9)
+C:\Users\DELL\Downloads\lab1-22i-2034\Q3.cpp(94, 18)
+C:\Users\DELL\Downloads\lab1-22i-2034\Q3.cpp(96, 17)
+C:\Users\DELL\Downloads\lab1-22i-2034\Q3.cpp(120, 14)
+
+Renamed 'transposeMatrix' to 'transpose':
+-----------------------------------------
+C:\Users\DELL\Downloads\lab1-22i-2034\Q3.cpp(71, 6)
+C:\Users\DELL\Downloads\lab1-22i-2034\Q3.cpp(126, 13)
+
+Renamed 'inputMatrix' to 'input':
+---------------------------------
+C:\Users\DELL\Downloads\lab1-22i-2034\Q3.cpp(4, 6)
+C:\Users\DELL\Downloads\lab1-22i-2034\Q3.cpp(96, 5)
+
+Renamed 'displayMatrix' to 'display':
+-------------------------------------
+C:\Users\DELL\Downloads\lab1-22i-2034\Q3.cpp(18, 6)
+C:\Users\DELL\Downloads\lab1-22i-2034\Q3.cpp(114, 13)
+
+Renamed 'sumMatrix' to 'sum':
+-----------------------------
+C:\Users\DELL\Downloads\lab1-22i-2034\Q3.cpp(32, 5)
+C:\Users\DELL\Downloads\lab1-22i-2034\Q3.cpp(117, 50)
+
+Renamed 'rowSumMatrix' to 'rowsum':
+-----------------------------------
+C:\Users\DELL\Downloads\lab1-22i-2034\Q3.cpp(45, 6)
+C:\Users\DELL\Downloads\lab1-22i-2034\Q3.cpp(120, 13)
+
+Renamed 'columnSumMatrix' to 'colsum':
+--------------------------------------
+C:\Users\DELL\Downloads\lab1-22i-2034\Q3.cpp(60, 6)
+C:\Users\DELL\Downloads\lab1-22i-2034\Q3.cpp(123, 13)
+
+Renamed 'A' to 'a':
+-------------------
+C:\Users\DELL\Downloads\lab1-22i-2034\Q3.cpp(89, 9)
+C:\Users\DELL\Downloads\lab1-22i-2034\Q3.cpp(96, 11)
+C:\Users\DELL\Downloads\lab1-22i-2034\Q3.cpp(114, 21)
+C:\Users\DELL\Downloads\lab1-22i-2034\Q3.cpp(117, 54)
+C:\Users\DELL\Downloads\lab1-22i-2034\Q3.cpp(120, 20)
+C:\Users\DELL\Downloads\lab1-22i-2034\Q3.cpp(123, 20)
+C:\Users\DELL\Downloads\lab1-22i-2034\Q3.cpp(126, 23)
+
+Renamed 'A' to 'a':
+-------------------
+C:\Users\DELL\Downloads\lab1-22i-2034\Q3.cpp(71, 26)
+C:\Users\DELL\Downloads\lab1-22i-2034\Q3.cpp(79, 31)
+
+Renamed 'A' to 'a':
+-------------------
+C:\Users\DELL\Downloads\lab1-22i-2034\Q3.cpp(60, 23)
+C:\Users\DELL\Downloads\lab1-22i-2034\Q3.cpp(65, 23)
